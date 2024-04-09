@@ -1,1 +1,1 @@
-module github.com/thanhpk/randstr
+module github.com/baldurstod/randstr
